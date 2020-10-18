@@ -11,7 +11,7 @@ public class App {
         //Palindrome.start();
         //TrianglePrinting.start();
         //Approximating.start();
-        PythagorianTriples.start();
+        //PythagorianTriples.start();
     }
 }
 
